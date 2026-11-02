@@ -21,7 +21,7 @@
  *   OPENROUTER_API_KEY   (secret) your OpenRouter key
  *   OPENROUTER_MODEL     (var)    optional, default openai/gpt-4o-mini
  *   GITHUB_TOKEN         (secret) optional, read-only token to fetch the snapshot
- *   GITHUB_REPO          (var)    optional, e.g. jamesonjdavis-maker/fantasy-football-monitor
+ *   GITHUB_REPO          (var)    optional, e.g. jamesonjdavis/fantasy-football-monitor
  */
 
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
